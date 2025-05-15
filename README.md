@@ -1,4 +1,5 @@
 # 📊 Employee Performance and Productivity Analysis
+![pexels-goumbik-590022](https://github.com/user-attachments/assets/28188636-ec2a-4669-80ef-19f5c1e6e69b)
 
 ## 🔍 Executive Summary
 
@@ -63,6 +64,7 @@ Data was cleaned in Excel using:
 - **Conclusion:** Flexibility in team size is possible without harming outcomes.
 
 ## 📊 Dashboard Overview
+![Employee Performance and Productivity Dashboard](https://github.com/user-attachments/assets/ee3b6b40-f0f2-4137-a172-a762ae414289)
 
 ### **Purpose:**
 An interactive dashboard created in Excel to visually present key insights.
