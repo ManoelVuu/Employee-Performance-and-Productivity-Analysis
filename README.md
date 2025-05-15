@@ -66,9 +66,6 @@ Data was cleaned in Excel using:
 ## 📊 Dashboard Overview
 ![Employee Performance and Productivity Dashboard](https://github.com/user-attachments/assets/ee3b6b40-f0f2-4137-a172-a762ae414289)
 
-### **Purpose:**
-An interactive dashboard created in Excel to visually present key insights.
-
 ### **Features:**
 - **Slicers for filtering:** Department, Job Title, Salary Segment
 - **Visualizations:**
