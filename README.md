@@ -91,5 +91,10 @@ Data was cleaned in Excel using:
 - Explore employee growth metrics (e.g., internal mobility, mentorship impact).
 - Use Python or Power BI for deeper modeling and trend predictions.
 
+## Contact
+
+For inquiries or collaboration, please reach out to: [manoelvuu@gmail.com](mailto:manoelvuu@gmail.com)
+- **Medium**: Read the full story at [Cracking the Code of Employee Performance](https://medium.com/@manoelvuu/cracking-the-code-of-employee-performance-what-really-drives-productivity-113e21c6f29c)
+  
 **Date:** 12th November 2024  
 **Analyst:** Emmanuel Vuu
